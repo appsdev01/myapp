@@ -4,3 +4,4 @@ node_js:
 deploy:
   provider: heroku
   api_key: "65d53285-1654-4d20-90b9-d93b148c3d4b"
+  app: "obscure-tor-4334"
